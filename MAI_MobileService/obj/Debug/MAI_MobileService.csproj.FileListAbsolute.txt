@@ -1,0 +1,6 @@
+Y:\Работа\MAI Mobile сервер\MAI_MobileService\MAI_MobileService\bin\Debug\MAI_MobileService.dll.config
+Y:\Работа\MAI Mobile сервер\MAI_MobileService\MAI_MobileService\bin\Debug\MAI_MobileService.dll
+Y:\Работа\MAI Mobile сервер\MAI_MobileService\MAI_MobileService\bin\Debug\MAI_MobileService.pdb
+Y:\Работа\MAI Mobile сервер\MAI_MobileService\MAI_MobileService\obj\Debug\ResolveAssemblyReference.cache
+Y:\Работа\MAI Mobile сервер\MAI_MobileService\MAI_MobileService\obj\Debug\MAI_MobileService.dll
+Y:\Работа\MAI Mobile сервер\MAI_MobileService\MAI_MobileService\obj\Debug\MAI_MobileService.pdb
